@@ -16,11 +16,15 @@ html {
 }
 
 h1 { 
+font-size: 54px;
+    font-weight: 900;
 	text-align: center;
 	color: white;
  } 
 
 h2 {
+font-size: 44px;
+    font-weight: 900;
 	text-align: center;
 	color: white;
 }
